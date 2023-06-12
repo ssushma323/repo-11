@@ -1,0 +1,4 @@
+Git add command is a straightforward command. It adds file to the staging area.
+We can add single or multiple files at once in the staging area.
+Every time we add or update anty file in our project, it is required to forward updates to the staging area.
+The staging and committing are co-related to each other.
